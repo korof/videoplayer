@@ -37,8 +37,5 @@
     "eslint-plugin-react": "^7.0.1",
     "prettier": "^1.4.0",
     "react-docgen-markdown-renderer": "^1.0.1"
-  },
-  "peerDependencies": {
-    "expo": "^24.0.0"
   }
 }
